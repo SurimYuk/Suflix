@@ -36,6 +36,7 @@
     ]
   },
   "devDependencies": {
+    "elliptic": "^6.5.3",
     "websocket-extensions": "^0.1.4"
   }
 }
