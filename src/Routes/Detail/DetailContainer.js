@@ -37,9 +37,9 @@ export default class extends React.Component {
         ({ data: result } = await tvApi.showDetail(parsedId));
       }
     } catch {
-      this.ListeningStateChangedEvent({ error: "Can't find details." });
+      this.setState({ error: "Can't find details." });
     } finally {
-      this.ListeningStateChangedEvent({ loading: false, result });
+      this.setState({ loading: false, result });
     }
   }
 
