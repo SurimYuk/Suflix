@@ -21,4 +21,4 @@ Learning React and ES6 by building a Movie Discovery App.
 - [x] Search (TV, Movie)
 
 ## Todo
-- [ ] Interactive Design
+- [ ] Advanced design
