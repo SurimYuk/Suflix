@@ -19,3 +19,6 @@ Learning React and ES6 by building a Movie Discovery App.
 - [x] Movie Show detail
 - [x] TV Show detail
 - [x] Search (TV, Movie)
+
+## Todo
+- [ ] Interactive Design
